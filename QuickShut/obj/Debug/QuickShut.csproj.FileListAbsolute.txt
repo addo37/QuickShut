@@ -1,0 +1,16 @@
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\bin\Debug\QuickShut.exe.config
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\bin\Debug\QuickShut.exe
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\bin\Debug\QuickShut.pdb
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\obj\Debug\MainWindow.g.cs
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\obj\Debug\App.g.cs
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\obj\Debug\QuickShut_MarkupCompile.cache
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\obj\Debug\QuickShut_MarkupCompile.lref
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\obj\Debug\MainWindow.baml
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\obj\Debug\QuickShut.g.resources
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\obj\Debug\QuickShut.Properties.Resources.resources
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\obj\Debug\QuickShut.csproj.GenerateResource.Cache
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\obj\Debug\QuickShut.exe
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\QuickShut\QuickShut\obj\Debug\QuickShut.pdb
