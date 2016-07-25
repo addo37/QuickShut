@@ -1,1 +1,2 @@
 # QuickShut
+QuickShut is awesome!
